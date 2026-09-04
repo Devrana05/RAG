@@ -76,8 +76,6 @@ llm = ChatAnthropic(
 )
 ```
 
-> ⚠️ If you've already committed real API keys to this notebook, treat them as compromised — revoke and regenerate them from each provider's dashboard, then scrub them from your git history before pushing.
-
 ### Add your data
 Place PDF files in `data/pdfs/`.
 
